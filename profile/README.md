@@ -8,4 +8,4 @@ Projects :
 - open-src-library : an open source library.
 - other projects are coming...
 
-The RWS-Studio team.
+The @RWS-Studio team.
